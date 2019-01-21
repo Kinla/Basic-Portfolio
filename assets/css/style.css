@@ -189,7 +189,7 @@ textarea::placeholder {
     font-size: 16px;
 }
 
-textarea:focus, input[type=text]:focus {
+textarea:focus, input[type=text]:focus, input[type=email]:focus {
     outline-color: #4aaaa5;
 }
 
